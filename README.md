@@ -9,4 +9,5 @@ Run the following command in the project directory:
 * `ant run` to run sample application,
 * `ant doc` to generate documentation,
 * `ant clean` to clean up project folder.
+* * `ant clean` to clean up project folder.1
 
